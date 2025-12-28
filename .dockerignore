@@ -1,0 +1,43 @@
+# Dependencies
+node_modules
+.next
+
+# Build files
+dist
+out
+.build
+
+# Environment files
+.env*.local
+.env
+
+# Logs
+*.log
+logs
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+coverage
+*.test.js
+*.spec.js
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# Misc
+*.md
+LICENSE
