@@ -7,6 +7,7 @@ git clone https://github.com/ltdzouzi-arch/ChatbotFrontend
 enter the folder of the chatbot
 ```
 npm i
+npm install tailwindcss postcss autoprefixer
 ```
 3. Build the docker image and run it 
 ```
