@@ -9,4 +9,6 @@ enter the folder of the chatbot
 npm i
 ```
 3. Build the docker image and run it 
+```
 docker-compose -f docker-compose.dev.yml up -d
+```
